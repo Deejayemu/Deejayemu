@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Deejayemu
-- 👀 I’m interested in WS2812 Lightnig with Arduino Controling
+- I'm am German Boy
+- 👀 I’m interested in WS2812 Lighting with Arduino Controling
 - 🌱 I’m currently learning C++
 
 
